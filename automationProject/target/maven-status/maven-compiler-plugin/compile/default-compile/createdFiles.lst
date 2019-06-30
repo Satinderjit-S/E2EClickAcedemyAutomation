@@ -1,0 +1,6 @@
+pageObjects\homePageObjects.class
+resources\listners.class
+clickAcedemy\automationProject\App.class
+pageObjects\loginPageObjects.class
+pageFactoryObjectRepository\practicePageObjects.class
+resources\Base.class

@@ -1,0 +1,7 @@
+19:36:40.539 [main] INFO  practicePage.practicePage_Test001 - initializing object of repository
+19:36:40.734 [main] INFO  practicePage.practicePage_Test001 - Performing all functions
+19:36:40.995 [main] INFO  practicePage.radioBtnTest - Running testSelectDropDown
+19:36:40.999 [main] INFO  practicePage.radioBtnTest - Running testAutoSuggestionDropDown
+19:39:50.852 [main] INFO  practicePage.radioBtnTest - Running testSelectDropDown
+19:46:17.433 [main] INFO  practicePage.radioBtnTest - Running testSelectDropDown
+19:46:17.619 [main] INFO  practicePage.radioBtnTest - Running testAutoSuggestionDropDown
